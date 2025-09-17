@@ -3,12 +3,11 @@ from flask import Flask
 from info import *
 import threading
 import time
-import asyncio
 
 
 class Bot(Client):
-    def init(self):
-        super().init(
+    def __init__(self):
+        super().__init__(
             name="Auto Cap",
             api_id=API_ID,
             api_hash=API_HASH,
@@ -31,11 +30,11 @@ class Bot(Client):
                 print("Make Sure Bot admin in force sub channel")
                 self.force_channel = None
         print(f"{me.first_name} Iꜱ Sᴛᴀʀᴛᴇᴅ.....✨️")
-        await self.send_message(ADMIN, f"{me.first_name}  Iꜱ Sᴛᴀʀᴛᴇᴅ.....✨️")
+        await self.send_message(ADMIN, f"{me.first_name} Iꜱ Sᴛᴀʀᴛᴇᴅ.....✨️")
 
 
 # Create Flask web app
-app = Flask(name)
+app = Flask(__name__)
 
 @app.route('/')
 def home():
@@ -49,7 +48,7 @@ def run_web():
     """Run the web server in a separate thread"""
     app.run(host='0.0.0.0', port=5000, debug=False)
 
-if name == "main":
+if __name__ == "__main__":
     # Start web server in a separate thread
     web_thread = threading.Thread(target=run_web, daemon=True)
     web_thread.start()

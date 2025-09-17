@@ -16,8 +16,8 @@ def is_enabled(value, default):
 
 ADMIN = int(getenv("ADMIN", ""))
 SILICON_PIC = os.environ.get("SILICON_PIC", "https://telegra.ph/file/21a8e96b45cd6ac4d3da6.jpg")
-API_ID = int(getenv("API_ID", ""))
-API_HASH = str(getenv("API_HASH", ""))
+API_ID = int(environ.get('API_ID', '22141398'))
+API_HASH = environ.get('API_HASH', '0c8f8bd171e05e42d6f6e5a6f4305389')
 BOT_TOKEN = str(getenv("BOT_TOKEN", ""))
 FORCE_SUB = os.environ.get("FORCE_SUB", "") 
 MONGO_DB = str(getenv("MONGO_DB", "mongodb+srv://replacewithyourmongodb:replacewithyourmongodb@cluster0.zi78j51.mongodb.net/?retryWrites=true&w=majority",))

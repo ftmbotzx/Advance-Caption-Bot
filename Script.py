@@ -41,8 +41,8 @@ Eg:- `/set_cap
 
     ABOUT_TXT = """<b>╔════❰ ᴀᴜᴛᴏ ᴄᴀᴘᴛɪᴏɴ ʙᴏᴛ ❱═❍⊱❁
 ║╭━━━━━━━━━━━━━━━➣
-║┣⪼📃ʙᴏᴛ : <a href='https://t.me/CustomCaptionBot'>Auto Caption</a>
-║┣⪼👦Cʀᴇᴀᴛᴏʀ : <a href='https://t.me/ftmdeveloperz'>Fᴛᴍ Dᴇᴠᴇʟᴏᴘᴇʀᴢ⚠️</a>
+║┣⪼📃ʙᴏᴛ : <a href='https://t.me/advanced_CaptionBot'>Auto Caption Bot</a>
+║┣⪼👦Cʀᴇᴀᴛᴏʀ : <a href='https://t.me/Hidden_Xman'>Hidden Xman⚠️</a>
 ║┣⪼🤖Uᴘᴅᴀᴛᴇ : <a href='https://t.me/ftmbotzx'>FTMBOTZX</a>
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ 
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3

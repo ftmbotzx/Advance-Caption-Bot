@@ -43,7 +43,7 @@ Eg:- `/set_cap
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : <a href='https://t.me/advanced_CaptionBot'>Auto Caption Bot</a>
 ║┣⪼👦Cʀᴇᴀᴛᴏʀ : <a href='https://t.me/Hidden_Xman'>Hidden Xman⚠️</a>
-║┣⪼🤖Uᴘᴅᴀᴛᴇ : <a href='https://t.me/ftmbotzx'>FTMBOTZX</a>
+║┣⪼🤖Uᴘᴅᴀᴛᴇ : <a href='https://t.me/movie_hd_hub15'>FTMBOTZX</a>
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ 
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
 ║┣⪼📚Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ 2.3.45
